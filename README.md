@@ -26,11 +26,7 @@ The command loop will keep on accepting commands until the user enters 'q' to qu
 must be executed as described. Each command is a single character and some commands have an additional argument.
 
 h: displays list of available commands to the user
-
 n: displays the number of students currently in the database
-
 c num:displays the number of students who took course 'num'. It also prints the student id numbers of those students.
-
 g student_id: displays the GPA of student with student id number given
-
 p num: displays the number of students with a GPA greater than 'num'. It also prints the student id numbers of those students.
