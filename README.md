@@ -1,6 +1,6 @@
 # cs368_p2
 
-This project was done for my cs368 - C++ for Java Programmers course at the University of Wisconsin-Madison.
+This project was done for my cs368 - C++ for Java Programmers course at the University of Wisconsin-Madison in the Spring of 2016.
 
 Description:
 For this assignment you will use command-line arguments, read an input file, and implement with two instantiable classes. 
