@@ -2,15 +2,10 @@
 
 This project was done for my cs368 - C++ for Java Programmers course at the University of Wisconsin-Madison.
 
-Description
+Description:
 For this assignment you will use command-line arguments, read an input file, and implement with two instantiable classes. 
 
-Specifications
-What are the program requirements?
-
-For this assignment you will complete the implementation files (i.e., the source files) for two classes for 
-which we've provided the interface files (i.e., the header files).
-
+Specifications:
 In this assignment, you'll implement these classes: 
 1. Student class
 2. Database class
